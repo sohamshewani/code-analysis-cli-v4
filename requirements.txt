@@ -1,0 +1,6 @@
+click
+rich
+pytest
+click-optiongroup
+coverage
+sqlite3
